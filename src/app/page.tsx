@@ -429,7 +429,7 @@ export default function Home() {
                   rel="noopener noreferrer"
                   className="text-sm font-semibold text-blue-600 hover:text-blue-800"
                 >
-                  GitHub ↗
+                  DevStack ↗
                 </a>
                 <span className="text-sm text-slate-400">
                   Live link
