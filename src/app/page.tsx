@@ -334,7 +334,7 @@ export default function Home() {
                   BazarDor ↗
                 </a>
                 <span className="text-sm text-slate-400">
-                  Live demo link pending
+                  Live link
                 </span>
               </div>
             </article>
