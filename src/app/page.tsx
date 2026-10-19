@@ -540,7 +540,7 @@ export default function Home() {
             href="#home"
             className="text-xl font-bold tracking-tight text-slate-900"
           >
-            Rafiqul Hasan<span className="text-blue-600">.</span>
+            Rafiqul Hasan
           </a>
 
           
