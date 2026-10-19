@@ -375,7 +375,7 @@ export default function Home() {
                   Fitlog ↗
                 </a>
                 <span className="text-sm text-slate-400">
-                  Live demo link pending
+                  Live link
                 </span>
               </div>
             </article>
@@ -432,7 +432,7 @@ export default function Home() {
                   GitHub ↗
                 </a>
                 <span className="text-sm text-slate-400">
-                  Live demo link pending
+                  Live link
                 </span>
               </div>
             </article>
@@ -473,7 +473,7 @@ export default function Home() {
                   GitHub ↗
                 </a>
                 <span className="text-sm text-slate-400">
-                  Live demo link pending
+                  Live link
                 </span>
               </div>
             </article>
