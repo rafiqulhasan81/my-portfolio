@@ -70,8 +70,8 @@ export default function Home() {
             </a>
 
             <a
-              href="/rafiqul-hasan-cv.pdf"
-              download="Rafiqul-Hasan-CV.pdf"
+              href="/Rfiqul_Hasan_Resume.pdf"
+              download="Rfiqul_Hasan_Resume.pdf"
               className="rounded-lg border border-slate-300 px-6 py-3 font-semibold text-slate-700 transition hover:border-blue-600 hover:text-blue-600"
             >
               Download CV
